@@ -1,6 +1,6 @@
 # Aclaración sobre la estructura del proyecto
 
-Quiero ser totalmente transparente con el planteamiento de esta entrega: el proyecto está hecho de forma bastante acoplada y poco eficiente, intentando cumplir con los mínimos que se piden en clase para poder sacarlo adelante.
+Quiero ser totalmente transparente con el planteamiento de esta entrega y las demas las cuales han sido mayormente generadas con IA, yo solo hacia la parte de logica y el viewModel hacia adelante osea toda la parte de la generacion de la interfaz y cercanas se la deje a la IA, entiendo las diferencias entre stateflow, flow y mutableflow pero hasta ahi: el proyecto está hecho de forma bastante acoplada y poco eficiente, intentando cumplir con los mínimos que se piden en clase para poder sacarlo adelante.
 
 Durante estas semanas he intentado entender bien cómo funciona Jetpack Compose, pero me cuesta muchísimo asimilarlo:
 * **La parte lógica la llevo bien:** Entiendo perfectamente cómo funciona el proyecto por detrás, la arquitectura base y el trabajo con hilos o procesos en segundo plano.

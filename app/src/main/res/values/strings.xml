@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FJGD-DamflixFase7</string>
+    <string name="nav_inicio">Inicio</string>
+    <string name="nav_listado">Listado</string>
+    <string name="nav_alta">Añadir</string>
+    <string name="nav_detalle">Detalle</string>
+    <string name="abrir_menu">Abrir Menú</string>
+    <string name="user_name">Usuario DAMFlix</string>
+    <string name="user_role">Crítico de Cine - 42 Películas Vistas</string>
+    <string name="avatar_desc">Avatar</string>
+    <string name="label_titulo">Título</string>
+    <string name="label_director">Director</string>
+    <string name="label_anio">Año</string>
+    <string name="chk_vista">Ya he visto esta película</string>
+    <string name="btn_guardar">Guardar Película</string>
+    <string name="btn_volver">Volver al Catálogo</string>
+    <string name="msg_cargando">Cargando datos de Room en segundo plano...</string>
+    <string name="msg_error">Película no encontrada.</string>
+    <string name="detalle_director">Director/a: %1$s</string>
+    <string name="detalle_anio">Año de estreno: %1$d</string>
+    <string name="estado_vista">Estado: Ya vista</string>
+    <string name="estado_pendiente">Estado: Pendiente</string>
+</resources>
